@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
             intent.putExtra(Intent.EXTRA_SUBJECT,subject);
             intent.putExtra(Intent.EXTRA_TEXT,body);
 
-            startActivity(intent);
+            startActivity(intent.createChooser(intent,"Share"));
             
         }
         
