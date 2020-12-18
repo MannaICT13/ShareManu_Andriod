@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareManu</string>
+    <string name="share_name">Share</string>
+    <string name="feedback_name">FeedBack</string>
+    <string name="about_name">About Us</string>
+
+</resources>
